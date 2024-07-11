@@ -1,0 +1,17 @@
+A finir --> Gestion Erreur IF quantité > Stock dans order Supprimer ID inexistant etc
+                                Date Invalide
+                                Gestion Symbol 
+                                Interface Graphique avec GTK --> Gerer failles xss si on fait des inputs
+                                Menu dans des menu --> Meilleur UI
+                                Organiser files 
+                                CSV --> BDD MySQL ou MariaDB
+                                Bdd Stock Bdd Client a ajouter
+                               
+                               
+                            Axe Amelioration
+                                Mettre un Register --> gestion de compte --> admin --> gestion de droit
+                                Interface Manager + Interface Salarié
+                                Mettre en place des alertes quand les stock < X Qtn
+                                Mettre en place interface Fournisseur achat date d'arriver retour de produit form a check quand une commande est recu qui valide
+                                Systeme d'analyse buisness / Dashboard 
+                                
